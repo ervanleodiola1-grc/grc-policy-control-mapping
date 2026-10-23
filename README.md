@@ -1,4 +1,4 @@
-# GRC Policy-to-Control Mapping
+# Project 2: GRC Policy-to-Control Mapping
 
 A beginner GRC (Governance, Risk, and Compliance) project where I wrote three short security policies and mapped each section to the matching controls in the NIST Cybersecurity Framework (CSF) 2.0.
 
