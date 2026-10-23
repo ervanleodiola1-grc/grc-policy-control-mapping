@@ -2,8 +2,8 @@
 
 **Company:** Example Co. (fictional)
 **Version:** 1.0
-**Owner:** [Your name], IT Security
-**Last reviewed:** [Date]
+**Owner:** Ervan, IT Security
+**Last reviewed:** 10/23/2026
 
 ## 1. Purpose
 
